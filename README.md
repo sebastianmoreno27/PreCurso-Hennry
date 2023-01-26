@@ -1,2 +1,1 @@
-# PreCurso-Hennry
-Este es un reposito de prueba del modulo Henrry
+Solo es una prueba de como clonar desde github
